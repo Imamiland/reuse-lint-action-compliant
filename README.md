@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 Evil Overlord Inc.
+
+SPDX-License-Identifier: WTFPL
+-->
+
 # REUSE Compliant Repository for Testing
 
 This repository is part of the testing infrastructure of the [reuse-lint-action](https://github.com/Imamiland/reuse-lint-action) GitHub Action.

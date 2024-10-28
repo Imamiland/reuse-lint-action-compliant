@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# SPDX-FileCopyrightText: 2024 Evil Overlord Inc.
+#
+# SPDX-License-Identifier: WTFPL
+
 # conquer_the_universe.sh
 # For when world domination just isn't enough.
 

@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# SPDX-FileCopyrightText: 2024 Evil Overlord Inc.
+#
+# SPDX-License-Identifier: WTFPL
+
 # chill_and_relax.sh
 # Script for taking a much-needed break during the hectic process of taking over the world.
 

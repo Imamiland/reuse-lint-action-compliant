@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+# SPDX-FileCopyrightText: 2024 Evil Overlord Inc.
+#
+# SPDX-License-Identifier: WTFPL
+
 # take_over_world.py
 # The main script for world domination.
 # This file should be kept top-secret, but who are we kidding?

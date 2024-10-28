@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 Evil Overlord Inc.
+
+SPDX-License-Identifier: WTFPL
+-->
+
 # Mistakes to Avoid as an Evil Overlord
 
 Learn from the mistakes of those who came before you. Remember: a prepared villain is a successful villain!
